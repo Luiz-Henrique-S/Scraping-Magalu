@@ -1,5 +1,4 @@
 import pandas as pd
-from utils.scraper import extrair_dados_pagina
 from utils.save_planilha import extracao_para_planilha
 
 def main():
